@@ -1,0 +1,21 @@
+/*
+* Maggie Morris
+* Due Date
+* Project Name and Description
+*/
+
+/* THe universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body {
+
+}
+table, td, th {border:1px solid green; }
+table {border-collapse: collapse;}
+thead { background-color: lightseagreen}
+tfoot { background-color: darkseagreen}
